@@ -10,6 +10,10 @@ This tool works by spoofing ARM64e as the architecture in a binary's `mach_heade
 
 PAC
 
+# Usage
+
+`TotallyARM64e <input file> <output file>`
+
 # Download
 
 [MacOS](https://github.com/Jim-Kong-Kracks/TotallyARM64e/raw/master/TotallyARM64e)

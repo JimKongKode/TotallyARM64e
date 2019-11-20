@@ -12,7 +12,7 @@ PAC
 
 # Usage
 
-`TotallyARM64e <input file> <output file>`
+`TotallyARM64e <arm64 input file> <fake arm64e output file>`
 
 # Download
 

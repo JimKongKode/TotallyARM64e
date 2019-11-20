@@ -9,3 +9,11 @@ This tool works by spoofing ARM64e as the architecture in a binary's `mach_heade
 # Why Apple is an asshole
 
 PAC
+
+# Download
+
+[MacOS](https://github.com/Jim-Kong-Kracks/TotallyARM64e/raw/master/TotallyARM64e)
+
+[iOS](https://github.com/Jim-Kong-Kracks/TotallyARM64e/raw/master/com.jimkongkracks.totallyarm64e_1.0.0_iphoneos-arm.deb)
+
+Windows/Linux: coming soon
